@@ -1,0 +1,15 @@
+Ticket_ID,Ticket_Text
+T01,I cannot access the laptop when I use mobile hotspot. Can you check this?
+T02,The state-of-the-art lab (Lab-3) is closed.
+T03,Projector crashes while opening after restarting the system. The same problem occurs again.
+T04,Email crashes while opening when connected to campus Wi-Fi. Please resolve it.
+T05,I am unable to use the password after restarting the system. Please resolve it.
+T06,Call me on +91 98765 43210 or 0175-239-3201.
+T07,Only 2 of 30 PCs boot after 3.5 hours.
+T08,I was locked out of the Wi-Fi after resetting my password. Is there another solution?
+T09,I reinstalled the MATLAB when connected to campus Wi-Fi. The same problem occurs again.
+T10,I reinstalled the Python while uploading the file. I have tried several times!
+T11,VPN was working yesterday during the lab. I have tried several times!
+T12,Why isn't the portal opening?
+T13,The server keeps disconnecting. Please help.
+T14,The Wi-Fi failed to open. This is urgent.
